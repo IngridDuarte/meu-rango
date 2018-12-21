@@ -1,3 +1,5 @@
+package com.aceleradora.meurango;
+
 public class Mensagem {
 
     public final String conteudo;
