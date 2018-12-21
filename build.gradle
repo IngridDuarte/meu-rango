@@ -16,5 +16,7 @@ repositories {
 }
 
 dependencies {
-    implementation('org.springframework.boot:spring-boot-starter-web:2.1.1.RELEASE')
+    implementation(
+            'org.springframework.boot:spring-boot-starter-web:2.1.1.RELEASE', 
+            'org.springframework.boot:spring-boot-starter-thymeleaf:2.1.1.RELEASE')
 }
